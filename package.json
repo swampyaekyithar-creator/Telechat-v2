@@ -1,0 +1,13 @@
+{
+  "name": "telechat-mobile",
+  "version": "2.0.0",
+  "description": "Telechat Mobile APK with Firebase Multi-User Chat, Google Sign-In, Voice Messages & WebRTC Calls",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor-firebase/authentication": "^6.3.1"
+  }
+}

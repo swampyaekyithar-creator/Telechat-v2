@@ -1,0 +1,14 @@
+{
+  "appId": "com.telechat.app",
+  "appName": "Telechat",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "FirebaseAuthentication": {
+      "skipNativeAuth": false,
+      "providers": ["google.com"]
+    }
+  }
+}
